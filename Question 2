@@ -1,0 +1,3 @@
+totalPurchase=float(input("Enter total purchase:"));
+if totalPurchase >= 100:
+     print("You get a discount!")
